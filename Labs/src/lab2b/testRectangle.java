@@ -16,7 +16,7 @@ public class testRectangle
 		
 		length.setlength(1);
 		width.setwidth(1);
-		Rectangle.recArea();
+
 		
 		
 		
