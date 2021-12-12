@@ -5,7 +5,7 @@ public class Driver
   	public static void main(String args[])
   	{ 
   		ThreeDShape threeDShape;
-  		TwoDShape twoDShape;
+  		
   		Shape 		shape;
   		Circle 		circle = new Circle("Circle One", "Red", 10.0);
   		Rectangle	rectangle = new Rectangle("Rectangle One", "Yellow", 15.0, 20.0);
